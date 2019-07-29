@@ -1,8 +1,8 @@
 var orgs = [
-  // {
-  //     "name": "DeftWork/tensorflow-diy",
-  //     "type": "repo"
-  // },
+   {
+       "name": "ml-hispano/mlh_openbci",
+       "type": "repo"
+  },
   {   "name": "DeftWork",
       "type": "org"
   }
