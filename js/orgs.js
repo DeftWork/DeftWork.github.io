@@ -4,7 +4,7 @@ var orgs = [
        "type": "repo"
   },
   {
-       "name": "deftwork/docker-caddy",
+       "name": "deftwork/caddy-docker",
        "type": "repo"
   },
   {   "name": "DeftWork",
